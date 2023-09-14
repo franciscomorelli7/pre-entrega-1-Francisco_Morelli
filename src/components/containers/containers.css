@@ -1,0 +1,18 @@
+.carrito{
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+}
+.numeritoCart{
+    
+    width: 30px;
+    height: 30px;
+}
+.cart-widget{
+    margin-right: 300px;
+    background-color: red;
+    border-radius: 10px;
+}
+.botonCarrito{
+    background-color: red;
+}
