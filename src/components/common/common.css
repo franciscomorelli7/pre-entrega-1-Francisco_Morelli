@@ -1,0 +1,39 @@
+.imagenesList{
+    width: 200px;
+    height: 200px;
+}
+.items{
+   color: white;
+    background-color: #03045E;
+    margin: 10px;
+    display: flex;
+    justify-content: center !important;
+}
+.detalles{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 5px;
+}
+.imagenes-detalle{
+    max-width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.columna-detalles{
+    background-color: #03045E;
+    color: white;
+    border-radius: 10px !important;
+}
+.contenedor-detalles{
+    margin-top: 50px;
+    
+}
+.botonesAgregarBorrar{
+    display: flex;
+    justify-content: center;
+    flex-direction: row !important;
+}
+.numerito{
+    margin-left:  15px;
+    margin-right: 15px;
+}
