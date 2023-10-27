@@ -3,7 +3,7 @@ import './layout.css'
 import { Link } from "react-router-dom";
 
 export const NavBar = () => {
-  const cartItemCount = 0;
+  
   
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -24,7 +24,7 @@ export const NavBar = () => {
             </li>
           </ul>
         </div>
-        <CartWidget itemContador={cartItemCount} />
+        <CartWidget/>
       </nav>
     );
   }
