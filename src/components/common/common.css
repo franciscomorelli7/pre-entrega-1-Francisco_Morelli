@@ -44,3 +44,16 @@
     display: flex;
     justify-content: end !important;
 }
+.formulario{
+    display: flex;
+    justify-content: center !important;
+    flex-direction: column !important;
+    padding: 20px !important;
+}
+.inputsForm{
+    display: flex;
+    justify-content: center !important;
+    
+    margin-top: 10px;
+    padding: 10px;
+}
